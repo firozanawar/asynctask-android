@@ -89,9 +89,8 @@ The AsyncTask class has two static Executors that you can pass to executeOnExecu
 * AsyncTask object don’t survive on configuration changes.
 
 References:-
-
-https://developer.android.com/reference/android/os/AsyncTask.html
-https://www.journaldev.com/9708/android-asynctask-example-tutorial
-http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html
-http://codetheory.in/android-asynctask/
-https://androidresearch.wordpress.com/2012/03/17/understanding-asynctask-once-and-forever/
+* https://developer.android.com/reference/android/os/AsyncTask.html
+* https://www.journaldev.com/9708/android-asynctask-example-tutorial
+* http://www.vogella.com/tutorials/AndroidBackgroundProcessing/article.html
+* http://codetheory.in/android-asynctask/
+* https://androidresearch.wordpress.com/2012/03/17/understanding-asynctask-once-and-forever/
